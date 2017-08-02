@@ -1,4 +1,4 @@
 
 ## Education
 
-Banana Accounting Education
+Banana Accounting Education.
