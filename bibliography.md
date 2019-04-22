@@ -43,6 +43,10 @@
   * Flipped classes  
     "An integrated project provides an excellent in-class activity in a flipped, activity-based course because it not only allows students to practice, but also emphasizes or identifies the challenges students are having with the methods introduced in each chapter or with the accounting cycle."
       
+
+
+
+
 ## Publication to be reviewed
 ### [Thoughts on Competency Integration inAccounting Education](https://edisciplinas.usp.br/pluginfile.php/1495028/mod_resource/content/0/Lawson%20et%20al.%20-%202015%20-%20Thoughts%20on%20Competency%20Integration%20in%20Accounting%20Education.pdf)
 2015, Raef A. Lawson, Edward J. Blocher, Peter C. Brewer, Jan Taylor Morris,Kevin D. Stocks, James E. Sorensen, David E. Stout, and Marc J. F. Wouters
@@ -53,3 +57,8 @@
 ### [How well do our introductory accounting text books reflect current accounting practice?]()https://www.sciencedirect.com/science/article/pii/S0748575116302287
 
 ### [Truffle in paradise: Job costing for a small business](https://www.sciencedirect.com/science/article/pii/S0748575116301348)
+
+### [An Examination and Analysis of Technologies Employed by Accounting Educators](http://www.aejournal.com/ojs/index.php/aej/article/download/390/195)
+
+### [Information Technologies in AccountingEducation](https://aisel.aisnet.org/siged2010/12/)
+2010,
