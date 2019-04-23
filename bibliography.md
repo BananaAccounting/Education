@@ -63,7 +63,7 @@
 ### [The future of 'serious games' in accounting education: A Delphi study](https://www.sciencedirect.com/science/article/pii/S0748575117300659)
 2019, Mari SolCalabora,Araceli Moraa,Soledad Moyab
 
-### [How well do our introductory accounting text books reflect current accounting practice?]()https://www.sciencedirect.com/science/article/pii/S0748575116302287
+### [How well do our introductory accounting text books reflect current accounting practice?](https://www.sciencedirect.com/science/article/pii/S0748575116302287)
 
 ### [Truffle in paradise: Job costing for a small business](https://www.sciencedirect.com/science/article/pii/S0748575116301348)
 
