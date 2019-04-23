@@ -8,7 +8,7 @@
 ## Publications reviewed
 
 ### [Forces for change in higher education and implications for the accounting academy](https://www.sciencedirect.com/science/article/pii/S0748575116301993)
-2017, Karen V.PincusaDavid E.StoutbJames E.SorensencKevin D.StocksdRaef A.Lawson
+2017, Karen V.Pincusa, David E.StoutbJames E.SorensencKevin D.StocksdRaef A.Lawson
 * Two major drivers–financial forces and technology force  
   * Financial forces: Within the next few decades, postsecondary institutions in the US will be driven to find significant new sources of revenues or new ways to significantly reduce expenditures to remain financially viable.
   * Technology forces
@@ -43,12 +43,21 @@
   * Flipped classes  
     "An integrated project provides an excellent in-class activity in a flipped, activity-based course because it not only allows students to practice, but also emphasizes or identifies the challenges students are having with the methods introduced in each chapter or with the accounting cycle."
       
-
-
-
+### [Recommendations for an Integrated Competency-Based Framework for Accounting Education](https://edisciplinas.usp.br/pluginfile.php/1494951/mod_resource/content/1/iace-50673.pdf)
+2014, Raef A. Lawson (Chair), Edward J. Blocher, Peter C. Brewer, Gary Cokins,James E. Sorensen, David E. Stout, Gary L. Sundem, Susan K. Wolcott, andMarc J. F. Wouters
+* Current situation  
+  * Most  accounting  curricula  continue  to  focus  on  preparation  for  entry-levelrequirements  in  the  field  of  accounting,  despite  repeated  calls  for  a  longer-term  perspective.
+  * Accounting education remains largely focused on preparing students for careers in publicaccounting/auditing,  despite  several  attempts  to  align  academic  curricula  with  the  demands  andresponsibilities of accounting practic
+* Stategic perspective  
+  * " the  organizational  field  of  accounting  mustdevelop a comprehensive understanding of its role in society. This effort requires a strategic view ofaccounting’s  value  proposition—how  accountants  add  value  to  organizations—and  a  curriculumbased on this value proposition. "
+  * "The integrative role of accounting is important to creating value in an organization."
+* Proposed educational framework  
+  "The Pathways Commission (2012, 24) identified a need for a new model of education that isbetter   aligned   with   the   contemporary   environment   and   evolving   demands   on   accountingprofessionals.  To  address  this,  we  provide  the  general  Framework  presented  in  Figure  1.  ThisFramework includes three interconnected components: (1) Foundational Competencies, (2) BroadManagement Competencies, and (3) Accounting Competencies. It assumes these competencies aredeveloped   and   integrated   over   time   via   a   combination   of   education   (including   continuingeducation), training, and work experience."  
+* Competency framework 
+  ![Competency framework](https://www.researchgate.net/profile/Raef_Lawson/publication/317826096/figure/fig1/AS:546198002307072@1507235159569/Competency-integration-a-general-framework-for-accounting-education-Source-Lawson-R.png)
 
 ## Publication to be reviewed
-### [Thoughts on Competency Integration inAccounting Education](https://edisciplinas.usp.br/pluginfile.php/1495028/mod_resource/content/0/Lawson%20et%20al.%20-%202015%20-%20Thoughts%20on%20Competency%20Integration%20in%20Accounting%20Education.pdf)
+### [Thoughts on Competency Integration in Accounting Education](https://edisciplinas.usp.br/pluginfile.php/1495028/mod_resource/content/0/Lawson%20et%20al.%20-%202015%20-%20Thoughts%20on%20Competency%20Integration%20in%20Accounting%20Education.pdf)
 2015, Raef A. Lawson, Edward J. Blocher, Peter C. Brewer, Jan Taylor Morris,Kevin D. Stocks, James E. Sorensen, David E. Stout, and Marc J. F. Wouters
 
 ### [The future of 'serious games' in accounting education: A Delphi study](https://www.sciencedirect.com/science/article/pii/S0748575117300659)
