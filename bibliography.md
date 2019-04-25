@@ -56,6 +56,24 @@
 * Competency framework 
   ![Competency framework](https://www.researchgate.net/profile/Raef_Lawson/publication/317826096/figure/fig1/AS:546198002307072@1507235159569/Competency-integration-a-general-framework-for-accounting-education-Source-Lawson-R.png)
 
+### [An Examination and Analysis of Technologies Employed by Accounting Educators](http://www.aejournal.com/ojs/index.php/aej/article/download/390/195)
+2018, Alan I. Blankley, David S. Kerr, Casper E. Wiggins
+
+* Use of Information Technology  
+  * Software  
+    "The top technology software that faculty require students to use, and the percentage of respondents who require it, are word processing software (68%), spreadsheet software (66%), Email software (52%), web browser software (51%), and presentation software (36%). **Less frequently required are accounting/bookkeeping software (8%)**, tax software (8%), database software (7%), audit software (6%), and flowcharting/drawing software (5%). Least frequently required software (< 5%) relate to graphics, social media, and programming languages."
+  * Hardware  
+    "Most respondents (79%) use a computer or tablet during class to present course material. Many faculty also reported they use document cameras in class (42%). About one in five respondents require students to use computers during class to work problems or take notes. Audience response systems (i.e., “clickers”) are not widely used by accounting faculty, with only seven percent of respondents reporting they use such systems. Other technologies less frequently employed during class time are Skype (e.g., for guest speakers), smart boards, Polyvision’s eno interactive whiteboard, DVDs, and polling software other than clickers."
+* Discussion  
+  * "Academic accounting programs have been widely criticized in the past for generally being unresponsive to repeated calls for change. For instance, Albrecht and Sack (2000) warned that, because accounting education programs had failed to make necessary changes to remain relevant, the survival of accounting education was in peril. Fortunately, the dire predictions of Albrecht and Sack and others that accounting might become irrelevant to business have not come to pass. Graduates of accounting programs continue to be in high demand, and accounting today is as relevant to business as ever. Now, in this current study conducted many years after the publication of the Albrecht and Sack monograph, we gain insight into today’s state of accounting education in terms of the ways IT hardware and 
+  software are currently used in accounting courses. It is quite likely that the widespread application of both old and new technologies by accounting educators evidenced in this study has contributed to the relevance and success of today’s accounting students and programs. However, there are still several areas in which improvements are needed."
+  * "Some possible reasons identified by Reid (2014) that might help explain accounting faculty’s resistance to integrating discipline-specific software include the time and effort required to integrate the software into the course, lack of instructor knowledge or familiarity with the software and/or how to effectively apply the software to enhance teaching and student learning, monetary costs of implementing the software, and difficulties scheduling classrooms with appropriate equipment."
+* Recommendations  
+  1. "Increase coverage of database software. Accounting programs should consider devoting more attention to database skills in the accounting curriculum. Database skills, like spreadsheet and word-processing skills, are in high demand by employers ..."
+  2. "Increase the number of courses in which students must use online databases and professional organizations’ websites." 
+  3. "Increase the use of discipline-specific software (i.e., audit, tax) in related courses, and increase exposure to flowcharting software and accounting software in more courses than just the AIS course."
+
+
 ## Publication to be reviewed
 ### [Thoughts on Competency Integration in Accounting Education](https://edisciplinas.usp.br/pluginfile.php/1495028/mod_resource/content/0/Lawson%20et%20al.%20-%202015%20-%20Thoughts%20on%20Competency%20Integration%20in%20Accounting%20Education.pdf)
 2015, Raef A. Lawson, Edward J. Blocher, Peter C. Brewer, Jan Taylor Morris,Kevin D. Stocks, James E. Sorensen, David E. Stout, and Marc J. F. Wouters
@@ -67,7 +85,6 @@
 
 ### [Truffle in paradise: Job costing for a small business](https://www.sciencedirect.com/science/article/pii/S0748575116301348)
 
-### [An Examination and Analysis of Technologies Employed by Accounting Educators](http://www.aejournal.com/ojs/index.php/aej/article/download/390/195)
 
 ### [Information Technologies in AccountingEducation](https://aisel.aisnet.org/siged2010/12/)
 2010,
