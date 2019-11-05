@@ -92,3 +92,5 @@
 ### [Competency-Based Accounting Education, Training, and Certification](https://openknowledge.worldbank.org/bitstream/handle/10986/31701/9781464814037.pdf)
 An Implementation Guide, Alfred Borgonovo, Brian Friedrich, and Michael Wells
 World Bank Group
+
+[Book Review of Competency-based Accounting education, training and certification: An Implementation guide](https://www.researchgate.net/publication/335202109_Book_Review_of_Competency-based_Accounting_education_training_and_certification_An_Implementation_guide/link/5d56534192851cb74c6fa902/download)
