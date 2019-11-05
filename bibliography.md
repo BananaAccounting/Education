@@ -88,3 +88,7 @@
 
 ### [Information Technologies in AccountingEducation](https://aisel.aisnet.org/siged2010/12/)
 2010,
+
+### [Competency-Based Accounting Education, Training, and Certification](https://openknowledge.worldbank.org/bitstream/handle/10986/31701/9781464814037.pdf)
+An Implementation Guide, Alfred Borgonovo, Brian Friedrich, and Michael Wells
+World Bank Group
